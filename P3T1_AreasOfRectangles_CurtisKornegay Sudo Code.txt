@@ -1,0 +1,11 @@
+Input the length and width of rectangle 1.
+Input the length and width of rectangle 2.
+Calculate the area of rectangle 1.
+Calculate the area of rectangle 2.
+If area1 > area2
+         Display "Rectangle 1 has the greatest area."
+else is area2 > area1
+         Display "Rectangle 2 has the greates are."
+else
+         Display "Both rectangles have the same area." 
+         
